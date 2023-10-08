@@ -32,8 +32,7 @@ Users should be able to:
 
 ![](./assets/screenshot/Desktop.png)
 ![](./assets/screenshot/State%20deskstop.png)
-
-![](./assets/screenshot/mobile.png)
+![](./assets/screenshot/Mobile.png)
 
 ### Links
 
