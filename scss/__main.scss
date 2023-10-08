@@ -95,6 +95,7 @@ body {
         height: 55px;
         margin-bottom: 40px;
         border-radius: 10px;
+        border: none;
         background-color: map-get(v.$colors, "Dark-Slate-Grey");
         color: map-get(v.$colors, "White");
         padding: 20px 50px;

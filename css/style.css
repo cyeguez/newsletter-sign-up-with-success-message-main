@@ -90,6 +90,7 @@ body {
   height: 55px;
   margin-bottom: 40px;
   border-radius: 10px;
+  border: none;
   background-color: hsl(234, 29%, 20%);
   color: hsl(0, 0%, 100%);
   padding: 20px 50px;
