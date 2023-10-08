@@ -7,7 +7,7 @@ const success = document.querySelector('.success');
 const btnDismiss = document.getElementById('bnt-dismiss');
 
 
-console.log(newSletter)
+
 function validation(e){
   e.preventDefault();
   let valueEmail= fieldEmail.value;
