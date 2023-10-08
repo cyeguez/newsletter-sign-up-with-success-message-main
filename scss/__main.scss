@@ -98,6 +98,7 @@ body {
         border: none;
         background-color: map-get(v.$colors, "Dark-Slate-Grey");
         color: map-get(v.$colors, "White");
+        font-weight: 700;
         padding: 20px 50px;
         font-weight: 400;
         cursor: pointer;

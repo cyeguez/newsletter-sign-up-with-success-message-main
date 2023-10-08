@@ -93,6 +93,7 @@ body {
   border: none;
   background-color: hsl(234, 29%, 20%);
   color: hsl(0, 0%, 100%);
+  font-weight: 700;
   padding: 20px 50px;
   font-weight: 400;
   cursor: pointer;
